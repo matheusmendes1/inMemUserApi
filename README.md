@@ -4,9 +4,8 @@ An API built with Node.js and NestJS for basic user management, created for the 
 
 ## Group Members
 
-- Member 1 Name
-- Member 2 Name
-- Member 3 Name
+- Matheus dos Santos Mendes
+- Nicoli Castro Ferreira 
 
 ## Features
 
